@@ -2,7 +2,7 @@
   "routes": [
     {
       "route": "/*",
-      "redirect": "https://dtlprsnat.trinity-health.org/students/home",
+      "redirect": "https://dtlprsnat.trinity-health.org/student/home",
       "statusCode": 301
     }
   ]
