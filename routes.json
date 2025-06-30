@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "source": "/*",
+      "redirect": "https://dtlprsnat.trinity-health.org/students/home",
+      "statusCode": 301
+    }
+  ]
+}
